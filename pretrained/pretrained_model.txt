@@ -1,0 +1,1 @@
+please download pretrained model 'swin_tiny_patch4_window7_224_1K.pth'
